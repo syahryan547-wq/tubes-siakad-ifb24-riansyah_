@@ -42,4 +42,4 @@ Route::middleware(['auth', 'role:mahasiswa'])->prefix('mahasiswa')->name('mahasi
     Route::delete('/krs/{id}', [KrsController::class, 'destroy'])->name('krs.destroy');
 });
 
-require __DIR__.'/auth.php';
+require __DIR__.'/auth.php'
