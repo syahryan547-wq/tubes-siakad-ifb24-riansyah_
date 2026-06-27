@@ -2,6 +2,8 @@
 
 Aplikasi web berbasis Laravel 12 untuk mensimulasikan Sistem Informasi Akademik (SIAKAD) sederhana. Dibuat sebagai Tugas Besar Mata Kuliah Web II IF53413.
 
+LINK HOSTING : 
+tubes-siakad-ifb24-riansyah-production-fcaf.up.railway.app
 ---
 
 ## 🚀 Teknologi yang Digunakan
