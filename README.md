@@ -134,3 +134,4 @@ php artisan key:generate
 ```
 
 4. Setting database di file `.env`
+LINK HOSTING= tubes-siakad-ifb24-riansyah-production-fcaf.up.railway.app
